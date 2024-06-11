@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/*CSS Document */
+p  {
+  color:darkcyan;
+  font-family: Untitled1 (True Type),"serif";
+  font-size: 16px;
+  line-height: 18px;
+  width: 600px;
+  background-color: antiquenwhite;
+  padding: 20px;
+.pozadina{
+    /*background-image: url("zavrsni kolokvij"/pozadina.jpg);*/
+    background-color: darkcyan;
+
+}
+.drugapozadina {
+    background-color: darkgrey;
+a:link {
+    color: black;
+    background-color: white;
+    padding: 5px;
+    line-height: 40px;
+    border: 1px solid #000000;
+}
+a:hover{
+    background-color: darkgrey;
+}
+img {
+    height: 200px;
